@@ -40,7 +40,7 @@ align-self: flex-end
 }
 
 .frameContainerer{
-  width:85%;
+  width:100%;
 }
 .frameContainer {
   position: relative;
